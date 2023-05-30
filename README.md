@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anuraaagz
 - 👀 I’m interested in solving problems and programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning android development
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
